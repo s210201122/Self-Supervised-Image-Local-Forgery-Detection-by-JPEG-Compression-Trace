@@ -1,0 +1,2 @@
+model_checkpoint_path: "Jpegprint-tensorflow-80000"
+all_model_checkpoint_paths: "Jpegprint-tensorflow-80000"
