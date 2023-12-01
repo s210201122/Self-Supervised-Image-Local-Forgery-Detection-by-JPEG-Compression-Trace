@@ -8,4 +8,8 @@
 
 
 
-### 3.  Due to the characteristics of different datasets, different parameters need to be tried during the binarization process to achieve the results in the paper. Of course, if you have a better binarization method, you can try it.
+### 3.  Due to the characteristics of different datasets, different parameters need to be tried during the binarization process to achieve the results in the paper. Of course, if you have a better binarization method, you can try it;
+
+
+
+### 4.  The dataset created and used in the paper can be obtained from here: https://pan.baidu.com/s/1gjaetMFOGTr8FZNwTjcw8g   code: tr6d.
